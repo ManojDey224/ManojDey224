@@ -1,14 +1,17 @@
 ![Manoj](https://user-images.githubusercontent.com/71746924/132444910-38a33531-919e-4b02-b885-f7a979025f71.png)<h1 align="center">
+
 <h1 align="center">Hey 👋, Buddy I'm Manoj dey</h1>
 <h3 align="center">A Self learner coder who is passionate about AI,ML</h3>
 
-- 🌱 I’m currently learning **tenserflow**
+  - 🌱 I’m currently learning **tenserflow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/account](https://github.com/account)
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **depritam991@gmail.com**
+
+<img align="right" width="400" src="https://cdn.dribbble.com/users/264642...">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,6 +29,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojdey224&show_icons=true&locale=en&layout=compact" alt="manojdey224" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojdey224&show_icons=true&locale=en" alt="manojdey224" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojdey224" alt="manojdey224" /></a> </p>
+
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojdey224" alt="manojdey224" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojdey224&" alt="manojdey224" /></p>
